@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Google OAuth — never commit these
+credentials.json
+token.json
+
+# Environment variables
+.env
