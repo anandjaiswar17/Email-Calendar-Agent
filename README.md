@@ -171,13 +171,3 @@ token.json
 credentials.json
 .env
 ```
-
----
-
-## 🚀 What to Build Next
-
-- **Batch notifications** — Send a Telegram/Slack message when drafts are ready
-- **Priority filtering** — Only draft replies for VIP senders
-- **Email categorization** — Tag emails as urgent / newsletter / action-required
-- **Custom reply rules** — "Always decline meeting requests on Fridays"
-- **Daily digest report** — Morning email summary of everything in your inbox
